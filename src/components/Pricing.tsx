@@ -148,7 +148,7 @@ function Pricing() {
 
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-bold text-gray-800 mb-4">
-            Still unsure? Let's show you how it works.
+            Still unsure? Let&apos;s show you how it works.
           </h3>
           <button className="bg-white border border-blue-600 text-blue-600 hover:bg-blue-50 px-6 py-3 rounded-md font-medium">
             Start with a Demo →
