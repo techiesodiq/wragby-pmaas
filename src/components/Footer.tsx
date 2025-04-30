@@ -91,7 +91,7 @@ function Footer() {
               Sitemap
             </a>
           </div>
-          <div className="text-sm">© 2023 Wragby. All rights reserved.</div>
+          <div className="text-sm">© 2025 Wragby. All rights reserved.</div>
         </div>
       </div>
     </footer>
