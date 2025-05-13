@@ -8,7 +8,7 @@ function DemoSection() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="p-8 md:p-12">
           <h2 className="text-[62px] leading-[114.99999999999999%] text-[#000044] font-bold mb-[24px]">
-            Still unsure? Let's show
+            Still unsure? Let&rsquo;s show
             <br />
             you how it works.
           </h2>

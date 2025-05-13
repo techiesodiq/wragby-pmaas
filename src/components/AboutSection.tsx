@@ -18,9 +18,9 @@ function AboutSection() {
               organizations a smarter way to execute projects—without the
               overhead. We provide expert-led project management solutions
               tailored to your unique goals, timelines, and challenges. Whether
-              it's driving digital transformation, managing cross-functional
-              teams, or delivering strategic initiatives, Wragby PMaaS ensures
-              seamless execution from start to finish.
+              it&rsquo;s driving digital transformation, managing
+              cross-functional teams, or delivering strategic initiatives,
+              Wragby PMaaS ensures seamless execution from start to finish.
             </p>
 
             <p className="text-lg font-semibold text-gray-900">
