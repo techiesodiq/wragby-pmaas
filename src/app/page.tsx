@@ -1,8 +1,11 @@
+import AboutSection from "@/components/AboutSection";
+import BenefitsSection from "@/components/BenefitsSection";
+import DemoSection from "@/components/DemoSection";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import HowItWorks from "@/components/HowItWorks";
-import Pricing from "@/components/Pricing";
+import HeroSection from "@/components/HeroSection";
+import HowItWorksSection from "@/components/HowItWorks";
+import PricingSection from "@/components/Pricing";
 import Head from "next/head";
 
 function Home() {
@@ -20,9 +23,12 @@ function Home() {
       <Header />
 
       <main className="flex-grow">
-        <Hero />
-        <HowItWorks />
-        <Pricing />
+        <HeroSection />
+        <AboutSection />
+        <BenefitsSection />
+        <HowItWorksSection />
+        <PricingSection />
+        <DemoSection />
       </main>
 
       <Footer />
