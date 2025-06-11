@@ -10,27 +10,27 @@ const HowItWorksSection = () => {
   const steps = [
     {
       id: "1",
-      text: "Browse services and discover the right tier for your needs",
+      text: "Explore – Discover the PMaaS tier that suits your project",
       img: ScopeIcon,
     },
     {
       id: "2",
-      text: "Fill out a quick form or reach out",
+      text: "Request – Submit your project brief or consultation request",
       img: WritePencilIcon,
     },
     {
       id: "3",
-      text: "Get expert advice and scope the project",
+      text: "Consult – Meet with a Wragby advisor to align scope and goalst",
       img: BubbleIcon,
     },
     {
       id: "4",
-      text: "Kick off the project with aligned goals and resources",
+      text: "Onboard – Assign your PM and tools, kickoff with clarity",
       img: RocketIcon,
     },
     {
       id: "5",
-      text: "Seamless execution, reporting, and success tracking",
+      text: "Deliver – We drive execution, reporting, and stakeholder updates",
       img: TickSquareIcon,
     },
   ];

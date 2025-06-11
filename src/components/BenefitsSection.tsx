@@ -10,32 +10,33 @@ import WaterfallIllustration from "../assets/icons/waterfall.svg";
 const benefits = [
   {
     id: "1",
-    title: "Planning & Strategy",
+    title: "End-to-end delivery for IT and cloud projects",
     img: BrainIllustration,
   },
   {
     id: "2",
-    title: "Agile & Waterfall",
+    title: "Agile, Waterfall, and Hybrid expertise",
     img: WaterfallIllustration,
   },
   {
     id: "3",
-    title: "Risk & Change Management",
+    title: "Risk, compliance & change management frameworks",
     img: CautionIllustration,
   },
   {
     id: "4",
-    title: "Cost Effective",
+    title: "Cost-effective PMO capability without full-time headcount",
     img: DollarsPadlockIllustration,
   },
   {
     id: "5",
-    title: "Flexible",
+    title: "Scalable for short-term or enterprise-wide programs",
     img: FlexibleIllustration,
   },
   {
     id: "6",
-    title: "Scalable",
+    title:
+      "Certified PMs with IT specialization (Cloud, ERP, DevSecOps, Cybersecurity)",
     img: ScalableIllustration,
   },
 ];

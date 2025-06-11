@@ -14,13 +14,17 @@ function AboutSection() {
             </h2>
 
             <p className="text-lg text-gray-600">
-              Wragby PMaaS (Project Management as a Service) offers
-              organizations a smarter way to execute projects—without the
-              overhead. We provide expert-led project management solutions
-              tailored to your unique goals, timelines, and challenges. Whether
-              it&rsquo;s driving digital transformation, managing
-              cross-functional teams, or delivering strategic initiatives,
-              Wragby PMaaS ensures seamless execution from start to finish.
+              Wragby PMaaS (Project Management as a Service) gives you on-demand
+              access to expert project managers who deliver complex IT and
+              digital transformation projects—without the overhead of a full
+              in-house PMO. Whether you&rsquo;re managing a cloud migration, ERP
+              deployment (SAP, Microsoft Dynamics 365), SharePoint rollout,
+              Windows modernization (Windows 11, Skype-to-Teams), DevSecOps
+              pipeline, or cybersecurity framework, our PMs ensure every project
+              runs smoothly, stays aligned to business goals, and delivers
+              measurable impact. We manage the planning, execution, governance,
+              and stakeholder engagement, so your teams can focus on what
+              matters most—innovation, scale, and transformation.
             </p>
 
             <p className="text-lg font-semibold text-gray-900">

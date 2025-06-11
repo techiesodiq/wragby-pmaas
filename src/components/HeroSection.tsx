@@ -31,7 +31,7 @@ const HeroSection = () => {
 
         {/* Tagline */}
         <p className="text-xl md:text-2xl lg:text-3xl text-white mb-8 max-w-2xl">
-          Expertly Managing Projects Seamlessly Delivered.
+          Expertly Managing IT projects, Seamlessly Delivered.
         </p>
 
         {/* CTA Button */}
